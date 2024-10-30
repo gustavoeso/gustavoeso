@@ -41,6 +41,7 @@ I'm **Gustavo Oliveira**, a Computer Engineering student at **INSPER** in São P
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoeso&theme=dark&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=gustavoeso&theme=dark_dimmed&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy) 
 ---
 
 ### Let's Connect!
