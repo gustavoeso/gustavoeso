@@ -1,11 +1,11 @@
 ### Welcome to my GitHub! 👋
 
-I'm **Gustavo Oliveira**, a Computer Engineering student at **INSPER** in São Paulo. I'm also one of the presidents of **Insper Dynamics**, where we work on innovative engineering projects.
+I'm **Gustavo Oliveira**, a Computer Engineering student at **INSPER** in São Paulo. I'm also one of the presidents of **Insper Dynamics**, where we work on innovative and dynamic engineering projects.
 
 ### About Me
-- 🔭 Currently exploring AI, cybersecurity, and advanced web development.
+- 🔐 Interests: **Cybersecurity**, **Game Development**, and **Data Science**
 - 🌐 Portfolio: [gustavoeso.com.br](https://gustavoeso.com.br)
-- 📚 Passionate about problem-solving, especially in **software engineering** and **game development**.
+- 🛠️ Experienced in **vulnerability assessments**, and developing **interactive games** in Unity
 
 ---
 
@@ -41,7 +41,12 @@ I'm **Gustavo Oliveira**, a Computer Engineering student at **INSPER** in São P
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoeso&theme=dark&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gustavoeso&theme=dark_dimmed&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy) 
+---
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gustavoeso&theme=dark_dimmed&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ### Let's Connect!
