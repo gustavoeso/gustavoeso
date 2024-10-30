@@ -5,7 +5,6 @@ I'm **Gustavo Oliveira**, a Computer Engineering student at **INSPER** in São P
 ### About Me
 - 🔐 Interests: **Cybersecurity**, **Game Development**, and **Data Science**
 - 🌐 Portfolio: [gustavoeso.com.br](https://gustavoeso.com.br)
-- 🛠️ Experienced in **vulnerability assessments**, and developing **interactive games** in Unity
 
 ---
 
