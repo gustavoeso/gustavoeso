@@ -1,6 +1,6 @@
 ### Welcome to my GitHub! 👋
 
-I'm **Gustavo Oliveira**, a Computer Engineering student at **INSPER** in São Paulo. I'm also one of the presidents of **Insper Dynamics**, where we work on innovative and dynamic engineering projects.
+I'm **Gustavo Oliveira**, a Computer Engineering student at **INSPER** in São Paulo. I'm also one of the presidents of **Insper Dynamics**, where we work on innovative and engineering projects.
 
 ### About Me
 - 🔐 Interests: **Cybersecurity**, **Game Development**, and **Data Science**
